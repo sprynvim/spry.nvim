@@ -17,5 +17,5 @@ rm -rf ~/.local/share/nvim
 ## Install
 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/sprynvim/install/main/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/sprynvim/install/HEAD/install.sh)"
 ```
